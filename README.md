@@ -1,4 +1,4 @@
-[![My Banner](Simathedev.png)]
+![My Banner](Simathedev.png)
 <h1 align="center">Hi 👋, I'm Simanye M</h1>
 <h3 align="center">A Software dev graduate and an aspiring full-stack developer from South Africa.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simathedev&label=Profile%20views&color=0e75b6&style=flat" alt="simathedev" /> </p>
