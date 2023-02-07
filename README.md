@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simathedev" alt="simathedev" /></a> </p>
 
-- 🌱 I’m currently learning **node.js, React, Express**
+- 🌱 I’m currently learning **node.js, React, Express, the MERN stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
