@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Simanye M</h1>
 <h3 align="center">A Software dev graduate and an aspiring full-stack developer from South Africa.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simathedev&label=Profile%20views&color=0e75b6&style=flat" alt="simathedev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simathedev" alt="simathedev" /></a> </p>
 
 - 🌱 I’m currently learning **node.js, React, Express, the MERN stack**
@@ -21,4 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simathedev&show_icons=true&locale=en" alt="simathedev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simathedev&" alt="simathedev" /></p>
+
+![image](https://user-images.githubusercontent.com/113444290/223948294-e600319c-3dbf-4f94-ac1f-4a819b6b3676.png)
+
 
