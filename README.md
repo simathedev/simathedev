@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Simanye</h1>
 <h3 align="center">A front-end developer and full-stack developer from South Africa.</h3>
 <p align="center"> I'm skilled in both full-stack and frontend development. My work goes beyond the ordinary, making abstract ideas into real achievements. With a versatile set of coding languages, libraries, and frameworks, I specialize in turning digital dreams into reality.</p>
-<p>(github banner created using using a banner generator I created)
+<p align="center">(github banner created using using a banner generator I created. It's one of my first projects.)
   <a href= "https://simathedev.github.io/github_banner_generator/">
-  <i>check it out!</i>
+  <i>Check it out!</i>
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simathedev&label=Profile%20views&color=0e75b6&style=flat" alt="simathedev" /> </p>
