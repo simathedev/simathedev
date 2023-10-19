@@ -1,4 +1,5 @@
-![simabanner](https://github.com/simathedev/simathedev/assets/113444290/7b10abdc-70eb-44c1-a179-8230b6a41cb9)
+
+![banner (8)](https://github.com/simathedev/simathedev/assets/113444290/554693f6-1092-4183-9e1c-181ca2170461)
 <h1 align="center">Hi 👋, I'm Simanye</h1>
 <h3 align="center">A front-end developer and full-stack developer from South Africa.</h3>
 <p align="center"> I'm skilled in both full-stack and frontend development. My work goes beyond the ordinary, making abstract ideas into real achievements. With a versatile set of coding languages, libraries, and frameworks, I specialize in turning digital dreams into reality.</p>
