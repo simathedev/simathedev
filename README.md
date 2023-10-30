@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://simathedev.vercel.app/](https://simathedev.vercel.app/)
+- 👨‍💻 Check out my portfolio website which includes projects I've created [https://simathedev.vercel.app/](simathedev)
 
 - 📫 How to reach me **simathedev@gmail.com**
 
