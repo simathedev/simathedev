@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Simanye</h1>
 <h3 align="center">A front-end developer and full-stack developer from South Africa.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simathedev&label=Profile%20views&color=0e75b6&style=flat" alt="simathedev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simathedev" alt="simathedev" /></a> </p>
-
 - 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 Check out my portfolio website which includes projects I've created [https://simathedev.vercel.app/](simathedev)
