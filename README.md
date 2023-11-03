@@ -1,4 +1,5 @@
-![banner (8)](https://github.com/simathedev/simathedev/assets/113444290/95fdf576-1f47-4e03-8be3-7fce8e01c180)
+
+![banner (39)](https://github.com/simathedev/simathedev/assets/113444290/55ba0e22-1096-47e3-a7bb-6b075a44047c)
 
 <h1 align="center">Hi 👋, I'm Simanye</h1>
 <h3 align="center">A front-end developer and full-stack developer from South Africa.</h3>
