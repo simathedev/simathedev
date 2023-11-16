@@ -2,15 +2,15 @@
 ![banner (8)](https://github.com/simathedev/simathedev/assets/113444290/0b63c6f5-ec03-480c-a1ff-c115529800d4)
 
 
-<h1 align="center">Hi 👋, I'm Simanye</h1>
+<h1 align="center">Hi 🌺, I'm Simanye</h1>
 <h3 align="center">A front-end developer and full-stack developer from South Africa.</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌷 I’m currently learning **Nextjs**
 
 - 👨‍💻 Check out my portfolio website which includes projects I've created [simathedev](https://simathedev.vercel.app/)
 
 - 📫 How to reach me **simathedev@gmail.com**
-
+- 🌈 [My Linktree](https://linktr.ee/simathedev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/simanye-magwa-b2118a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simanye-magwa-b2118a221" height="30" width="40" /></a>
